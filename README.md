@@ -1,5 +1,7 @@
 # Cosmos 3 & Imagen 4.0 AI Image Studio (Streamlit version)
 
+![System Architecture](architecture.png)
+
 This is a premium Streamlit web application ported from the React version. It allows users to:
 1. Generate high-quality physics-realistic images using **NVIDIA Cosmos 3** (via Hugging Face API) and **Google Imagen 4.0** (via Gemini API).
 2. Optimize simple prompts into highly-detailed, structured physical prompts using **Gemini 2.5 Flash**.
